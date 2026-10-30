@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "chanfana-openapi-ntcoffee",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "openapi-ntcoffee-db",
+			"database_id": "3eb3b333-2b30-409e-8d09-ccd54bd9d94b"
+		}
+	]
+}
